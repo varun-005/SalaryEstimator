@@ -1,6 +1,6 @@
 # Salary Prediction using Linear Regression
 
-This is a simple web-based application for predicting salaries based on years of experience using Linear Regression. The model is built with Python, Flask, and scikit-learn, and the application provides an interactive interface where users can input their years of experience to predict their salary.
+This web application predicts salaries based on years of experience using Linear Regression. It is built with Python, Flask, and scikit-learn. Users can input their years of experience into the interactive interface to get a salary prediction.
 
 ## Features
 
